@@ -29,7 +29,7 @@ Automacao-Extracao/
 ├── logs/                      # Logs gerados automaticamente
 ├── data/                      # Arquivos de entrada/saída
 ├── tests/                     # (Opcional) Testes unitários
-├── .env                       # Variáveis sensíveis (não subir pro Git)
+├── .env                       # Variáveis sensíveis
 ├── .gitignore
 ├── requirements.txt
 └── README.md
