@@ -1,14 +1,5 @@
-pandas 
+pandas
 openpyxl
-time
-traceback
-os
 pyautogui
-warnings
-re
-shutil
-logging
-datetime
-openpyxl 
 selenium
-dotenv 
+python-dotenv
